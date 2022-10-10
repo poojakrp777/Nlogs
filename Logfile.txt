@@ -1,0 +1,2 @@
+﻿2022-10-10 16:21:02.9702 DEBUG Debugging with sum operation successfull
+2022-10-10 16:21:03.0225 INFO sum:28
