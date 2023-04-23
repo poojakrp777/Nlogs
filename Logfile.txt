@@ -1,2 +1,4 @@
-﻿2022-10-10 16:21:02.9702 DEBUG Debugging with sum operation successfull
-2022-10-10 16:21:03.0225 INFO sum:28
+﻿2023-04-11 08:17:51.5224 DEBUG Debugging with sum operation successfull
+2023-04-11 08:17:51.6824 INFO sum:5
+2023-04-11 09:27:53.2355 DEBUG Debugging with sum operation successfull
+2023-04-11 09:27:53.4296 INFO sum:7
